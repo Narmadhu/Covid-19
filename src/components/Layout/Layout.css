@@ -1,0 +1,11 @@
+.layout {
+  height: 100vh;
+  background-image: url("/images/images.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
